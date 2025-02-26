@@ -22,12 +22,12 @@ repository               : "hvinci/hvinci.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar.png"
+  avatar           : "avatar.png"
   name             : "Huangwenxi"
   pronouns         : "she/her"  
-  bio              : ""
+  # bio              : ""
   location         : "China Beijing"
-  employer         : ""
+  # employer         : ""
   uri              : # URL
   email            : "18518021010@163.com" 
 
