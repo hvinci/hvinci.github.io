@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Compile-pascal2c"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- **GitHub**: [https://github.com/Antarcnight/Compile-pascal2c](https://github.com/Antarcnight/Compile-pascal2c)  
+- **技术栈**: 编译原理, Lex, Yacc, C  
+- **描述**: 实现了一个将 Pascal 语言转换为 C 语言的编译器，支持基本语法解析和代码生成。  
+- **成果**: 深入理解了编译器的工作原理，掌握了词法分析和语法分析的技术。
